@@ -10,9 +10,9 @@ libTestTargetSdkVersion = "36"
 automotiveMinSdkVersion = "28"
 
 # Gradle Plugins
-androidGradlePlugin = "9.0.1"
+androidGradlePlugin = "9.3.1"
 kotlinComposeCompiler = "2.2.0"
-kotlinGradlePlugin = "2.2.0"
+kotlinGradlePlugin = "2.3.21"
 protobufGradlePlugin = "0.10.0"
 strictVersionMatcherPlugin = "1.2.4"
 
